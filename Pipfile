@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+geometron = "*"
+flopy = "*"
+jupyterlab = "*"
+jupyter-contrib-nbextensions = "*"
+gdal = "*"
+pyshp = "*"
+mplleaflet = "*"
+pyproj = "*"
+folium = "*"
+ipympl = "*"
+shapely = "*"
+geopandas = "*"
+descartes = "*"
+svgpathtools = "*"
+svgpath2mpl = "*"
+panel = "*"
+mapclassify = "*"
+gempy = "*"
+numba = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
