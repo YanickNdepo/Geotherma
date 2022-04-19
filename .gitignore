@@ -1,3 +1,21 @@
+# Exclude special directories
+qgis/
+project_data/
+gsdma_2021-develop/
+flopy/playground/GSDMA_21_Examples/
+flopy/playground/tutorials/
+flopy/playground/notebooks/Melanie/
+flopy/playground/models_files/
+
+# exclude special files
+*.zip
+*.gpkg
+*.shp
+*.dbf
+*.shx
+*.dat
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
